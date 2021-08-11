@@ -14,6 +14,9 @@ configure jenikns
 install ansible
 	write playbooks
 	push playbook to github
+	
+	installed maven in linux 
+	Auto build triggered on Aug 11the 2021
 
 	
 	
